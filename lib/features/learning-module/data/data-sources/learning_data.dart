@@ -1,0 +1,43 @@
+//small json data assigned to variable data to be used in FlashcardScreen widget
+var learningData = {
+  "Alphabet": [
+    {"image": "assets/gestures/A.jpg", "letter": "A"},
+    {"image": "assets/gestures/B.jpg", "letter": "B"},
+    {"image": "assets/gestures/C.jpg", "letter": "C"},
+    {"image": "assets/gestures/E.jpg", "letter": "E"},
+    {"image": "assets/gestures/F.jpg", "letter": "F"},
+    {"image": "assets/gestures/G.jpg", "letter": "G"},
+    {"image": "assets/gestures/H.jpg", "letter": "H"},
+    {"image": "assets/gestures/I.jpg", "letter": "I"},
+    {"image": "assets/gestures/J.jpg", "letter": "J"},
+    {"image": "assets/gestures/K.jpg", "letter": "K"},
+    {"image": "assets/gestures/L.jpg", "letter": "L"},
+    {"image": "assets/gestures/M.jpg", "letter": "M"},
+    {"image": "assets/gestures/N.jpg", "letter": "N"},
+    {"image": "assets/gestures/O.jpg", "letter": "O"},
+    {"image": "assets/gestures/P.jpg", "letter": "P"},
+    {"image": "assets/gestures/Q.jpg", "letter": "Q"},
+    {"image": "assets/gestures/R.jpg", "letter": "R"},
+    {"image": "assets/gestures/S.jpg", "letter": "S"},
+    {"image": "assets/gestures/T.jpg", "letter": "T"},
+    {"image": "assets/gestures/U.jpg", "letter": "U"},
+    {"image": "assets/gestures/V.jpg", "letter": "V"},
+    {"image": "assets/gestures/W.jpg", "letter": "W"},
+    {"image": "assets/gestures/X.jpg", "letter": "X"},
+    {"image": "assets/gestures/Y.jpg", "letter": "Y"},
+    {"image": "assets/gestures/Z.jpg", "letter": "Z"}
+  ],
+  "Numbers": [
+    {"image": "assets/gestures/0.jpg", "letter": "0"},
+    {"image": "assets/gestures/1.jpg", "letter": "1"},
+    {"image": "assets/gestures/2.jpg", "letter": "2"},
+    {"image": "assets/gestures/3.jpg", "letter": "3"},
+    {"image": "assets/gestures/4.jpg", "letter": "4"},
+    {"image": "assets/gestures/5.jpg", "letter": "5"},
+    {"image": "assets/gestures/6.jpg", "letter": "6"},
+    {"image": "assets/gestures/7.jpg", "letter": "7"},
+    {"image": "assets/gestures/8.jpg", "letter": "8"},
+    {"image": "assets/gestures/9.jpg", "letter": "9"},
+    {"image": "assets/gestures/10.jpg", "letter": "10"}
+  ],
+};
